@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iChat/static/css/main.3be01780.css",
-    "main.js": "/iChat/static/js/main.704f00b3.js",
-    "static/js/787.85f77de3.chunk.js": "/iChat/static/js/787.85f77de3.chunk.js",
-    "index.html": "/iChat/index.html",
-    "main.3be01780.css.map": "/iChat/static/css/main.3be01780.css.map",
-    "main.704f00b3.js.map": "/iChat/static/js/main.704f00b3.js.map",
-    "787.85f77de3.chunk.js.map": "/iChat/static/js/787.85f77de3.chunk.js.map"
+    "main.css": "/static/css/main.3be01780.css",
+    "main.js": "/static/js/main.fd0b9271.js",
+    "static/js/787.85f77de3.chunk.js": "/static/js/787.85f77de3.chunk.js",
+    "index.html": "/index.html",
+    "main.3be01780.css.map": "/static/css/main.3be01780.css.map",
+    "main.fd0b9271.js.map": "/static/js/main.fd0b9271.js.map",
+    "787.85f77de3.chunk.js.map": "/static/js/787.85f77de3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3be01780.css",
-    "static/js/main.704f00b3.js"
+    "static/js/main.fd0b9271.js"
   ]
 }
